@@ -1,4 +1,4 @@
-# Azure VM Scale Set – Apache Web Server Demo
+# Azure VM Scale Set VMSS – Apache Web Server Demo
 
 This project demonstrates how to deploy a Virtual Machine Scale Set (VMSS) in Microsoft Azure and host a simple static webpage using the Apache2 web server on multiple virtual machine instances.
 
