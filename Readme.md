@@ -148,7 +148,7 @@ Next steps to expand this project:
 - Verify both VM instances are in a healthy state
 - Review the Load Balancer rules and backend pool configuration
 
----
+----
 
 **Author:** Siddhesh Khanorkar  
 **Created:** March 2026  
